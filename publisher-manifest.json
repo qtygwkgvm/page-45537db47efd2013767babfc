@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ac5d13b2c20ecbb586b525a3",
+  "owner": "qtygwkgvm",
+  "repo": "page-45537db47efd2013767babfc",
+  "title": "阿夸kiss",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45537db47efd2013767babfc",
+      "a": "阿夸kiss",
+      "b": "2027官方最新地址导航",
+      "entity": "阿夸kiss",
+      "brand": "阿夸kiss",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b453b31a3d11dba4b47ccb93b0e1307496627e3978723ce79420a08d480f718d",
+      "content": {
+        "primary_entity": "阿夸kiss",
+        "keyword1": "阿夸kiss",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，不同系统有对应的订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后下载对应客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配客户端",
+          "AI_DESCRIPTION": "，阿夸kiss提供基础版、旗舰版与团队版三档套餐。基础版每月100GB流量，支持3台设备同时在线；旗舰版每月300GB流量，支持5台设备，含IPLC专线优化；团队版每月1000GB流量，支持20台设备。三档均支持按月或按年支付，可按流量与设备数量对比选择。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期，了解阿夸kiss加速器的基本使用方向。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB可满足轻量浏览，团队版每月1000GB适合多设备并行使用。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，按常用终端数量匹配套餐。",
+          "AI_FEATURE_TEXT_3": "套餐支持按月与按年支付，年付价格低于按月累计，长期使用可优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备匹配",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "从选择服务到导入订阅，三个步骤完成阿夸kiss加速器的初步配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "阿夸kiss面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月100GB适合轻量使用，旗舰版每月300GB支持5台设备并针对游戏优化，团队版每月1000GB支持20台设备。选定套餐后，按设备安装对应客户端并导入订阅即可。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活匹配设备",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB，支持20台设备",
+          "AI_PLANS_INTRO": "三档套餐分别对应轻量、进阶与多设备场景，可参考流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "确认终端系统与版本要求，查看对应平台的客户端适配说明。",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅信息，完成后即可按套餐权益使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "阿夸kiss加速器套餐",
+          "AI_FAQ_ANSWER_1": "按日常同时在线设备数量选择：3台以内可考虑基础版，5台左右适合旗舰版，20台或团队共用则选团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版包含原生流媒体解锁及IPLC线路优化，基础版则提供常规节点池与基础流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "年付方案通常比月付更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，相当于按月付费约两个月赠送。",
+          "AI_FAQ_ANSWER_4": "主流客户端均支持导入订阅链接，不同系统版本与设备型号可能存在差异，建议参考对应客户端文档完成配置。",
+          "AI_FAQ_ANSWER_5": "可以，团队版支持企业定制路由并配备专属客户经理，适合有多区域或多人使用需求的团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "阿夸kiss套餐如何选择？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流媒体与线路有什么差异？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更合适？",
+          "AI_FAQ_QUESTION_4": "客户端订阅导入是否方便？",
+          "AI_FAQ_QUESTION_5": "团队版是否支持企业定制？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "honghui886.cn",
+    "host": "honghui886.cn"
+  },
+  "file_hashes": {
+    "index.html": "f8c0d19de66e50b1073509ddbb66f054091216743fd784065d739f0ccbe7beb9",
+    "sitemap.xml": "be62ccc8fbc1acdce99ba5917031b88cd3411aaecb7d0aa572cb8779249081c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "96e41a8cb522844dea70612e9d69a41feb5ebc8b64e9a4db859d863e7307ab3e",
+    "robots.txt": "eec7de03b0eb1a062f44daa94a240f3076806e2b21d9dec2d7b8b952a01e6bfa",
+    "6c57fbeba89ec634805762438a8d7f93.txt": "2fc553418de900f83e8e6b01090a979b1ba98ca5ebfbf70f622010b8afdc0fb1"
+  },
+  "revision": "26be91cd5de7f318b843f40cf95a41499c340b7918bb6a81df8fbf0ce1bf31bc"
+}

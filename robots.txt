@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://honghui886.cn/sitemap.xml
